@@ -1,0 +1,2 @@
+id/bayu/mainan/BuildConfig.java
+ id.bayu.mainan.BuildConfig
